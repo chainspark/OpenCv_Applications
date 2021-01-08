@@ -2,7 +2,7 @@
 
 Some application of OpenCv functions on a raw image.
 
-###Raw Image
+### Raw Image
 ![Raw Image](https://github.com/chainspark/OpenCv_Applications/blob/main/Convolution/FishingBoat.jpg)
 
 ## Convolution : Vignette Filters
