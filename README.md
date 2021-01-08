@@ -10,7 +10,7 @@ Some application of OpenCv functions on a raw image.
 ### RGB Convolution
 ![](https://github.com/chainspark/OpenCv_Applications/blob/main/Convolution/Focus_on_boat.jpg)
 
-### Greaysacle Equalised
+### Greayscale Equalised
 ![](https://github.com/chainspark/OpenCv_Applications/blob/main/Convolution/Focus_on_boat_equalised_gray.jpg)
 
 ## Image Feature Extraction
