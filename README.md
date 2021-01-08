@@ -11,7 +11,7 @@ Some application of OpenCv functions on a raw image.
 ![](https://github.com/chainspark/OpenCv_Applications/blob/main/Convolution/Focus_on_boat.jpg)
 
 ### Greaysacle Equalised
-1[](https://github.com/chainspark/OpenCv_Applications/blob/main/Convolution/Focus_on_boat_equalised_gray.jpg)
+![](https://github.com/chainspark/OpenCv_Applications/blob/main/Convolution/Focus_on_boat_equalised_gray.jpg)
 
 ## Image Feature Extraction
 
